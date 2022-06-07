@@ -1,0 +1,13 @@
+package com.Yebolo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class YeboloApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
